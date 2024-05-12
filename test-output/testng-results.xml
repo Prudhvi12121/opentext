@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[HDFC Bank]]>
+    </line>
+    <line>
+      <![CDATA[St Bk of India]]>
+    </line>
+    <line>
+      <![CDATA[Punjab Natl.Bank]]>
+    </line>
+    <line>
+      <![CDATA[Bank of Baroda]]>
+    </line>
+    <line>
+      <![CDATA[Union Bank (I)]]>
+    </line>
+    <line>
+      <![CDATA[Canara Bank]]>
+    </line>
+    <line>
+      <![CDATA[IDBI Bank]]>
+    </line>
+    <line>
+      <![CDATA[Indian Bank]]>
+    </line>
+    <line>
+      <![CDATA[Bank of India]]>
+    </line>
+    <line>
+      <![CDATA[Bank of Maha]]>
+    </line>
+    <line>
+      <![CDATA[Karur Vysya Bank]]>
+    </line>
+    <line>
+      <![CDATA[Equitas Sma. Fin]]>
+    </line>
+    <line>
+      <![CDATA[Ujjivan Small]]>
+    </line>
+    <line>
+      <![CDATA[Karnataka Bank]]>
+    </line>
+    <line>
+      <![CDATA[T N Merc. Bank]]>
+    </line>
+    <line>
+      <![CDATA[South Ind.Bank]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-12T16:24:05 IST" name="Default suite" finished-at="2024-05-12T16:24:23 IST" duration-ms="18421">
+    <groups>
+    </groups>
+    <test started-at="2024-05-12T16:24:05 IST" name="Default test" finished-at="2024-05-12T16:24:23 IST" duration-ms="18421">
+      <class name="Project.ScreenerAssignment">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Project.ScreenerAssignment@1e6454ec]" started-at="2024-05-12T16:24:05 IST" name="setup" finished-at="2024-05-12T16:24:10 IST" duration-ms="5517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDividends()[pri:0, instance:Project.ScreenerAssignment@1e6454ec]" started-at="2024-05-12T16:24:10 IST" name="verifyDividends" finished-at="2024-05-12T16:24:19 IST" duration-ms="8809" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HDFC Bank]]>
+            </line>
+            <line>
+              <![CDATA[St Bk of India]]>
+            </line>
+            <line>
+              <![CDATA[Punjab Natl.Bank]]>
+            </line>
+            <line>
+              <![CDATA[Bank of Baroda]]>
+            </line>
+            <line>
+              <![CDATA[Union Bank (I)]]>
+            </line>
+            <line>
+              <![CDATA[Canara Bank]]>
+            </line>
+            <line>
+              <![CDATA[IDBI Bank]]>
+            </line>
+            <line>
+              <![CDATA[Indian Bank]]>
+            </line>
+            <line>
+              <![CDATA[Bank of India]]>
+            </line>
+            <line>
+              <![CDATA[Bank of Maha]]>
+            </line>
+            <line>
+              <![CDATA[Karur Vysya Bank]]>
+            </line>
+            <line>
+              <![CDATA[Equitas Sma. Fin]]>
+            </line>
+            <line>
+              <![CDATA[Ujjivan Small]]>
+            </line>
+            <line>
+              <![CDATA[Karnataka Bank]]>
+            </line>
+            <line>
+              <![CDATA[T N Merc. Bank]]>
+            </line>
+            <line>
+              <![CDATA[South Ind.Bank]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDividends -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Project.ScreenerAssignment@1e6454ec]" started-at="2024-05-12T16:24:19 IST" name="tearDown" finished-at="2024-05-12T16:24:19 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Project.ScreenerAssignment@1e6454ec]" started-at="2024-05-12T16:24:19 IST" name="setup" finished-at="2024-05-12T16:24:22 IST" duration-ms="2516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRoceValue()[pri:0, instance:Project.ScreenerAssignment@1e6454ec]" started-at="2024-05-12T16:24:22 IST" name="verifyRoceValue" finished-at="2024-05-12T16:24:23 IST" duration-ms="1047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRoceValue -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Project.ScreenerAssignment@1e6454ec]" started-at="2024-05-12T16:24:23 IST" name="tearDown" finished-at="2024-05-12T16:24:23 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Project.ScreenerAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
